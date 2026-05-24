@@ -22,26 +22,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<!-- GitHub сам подставит ваш логин и покажет графики, ничего менять не нужно -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitaaKa&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" height="160" />
-</p>
-
----
-
-### 🐍 The Contribution Snake
-
-<!-- Этот блок автоматически заберет змейку из ветки output вашего репозитория -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com{{ github.repository }}&amp;#47;output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com{{ github.repository }}&amp;#47;output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Streak Snake" src="https://githubusercontent.com{{ github.repository }}&amp;#47;output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### 🤝 Connect with me
 - **Telegram:** nikita1kalashnikov (t.me/nikita1kalashnikov)
 - **Discord:** neekeetka0
