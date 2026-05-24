@@ -1,9 +1,3 @@
-# Hi there, I'm NikitaaKa! 👋
-
-I am a Backend Developer from Moscow, Russia. Currently, I am focusing on sharpening my coding skills through platforms like CodeWars, exploring modern APIs, and occasionally taking on freelance projects.
-
----
-
 ### 🚀 About Me
 - 🔭 **Current Project:** Developing an advanced Telegram bot integrated with the **Stable Diffusion API**.
 - 🌱 **Learning:** Deep diving into Generative AI text-to-image pipelines and prompt engineering.
