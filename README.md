@@ -26,7 +26,7 @@
 
 <!-- GitHub сам подставит ваш логин и покажет графики, ничего менять не нужно -->
 <p align="left">
-  <img src="https://vercel.app/{{ github.repository_owner }}&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" height="160" />
+  <img src="https://vercel.app/nikitaaKa&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" height="160" />
 </p>
 
 ---
