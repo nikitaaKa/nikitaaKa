@@ -1,7 +1,7 @@
 ### 🚀 About Me
-- 🔭 **Current Project:** Developing an advanced Telegram bot integrated with the **Stable Diffusion API**.
-- 🌱 **Learning:** Deep diving into Generative AI text-to-image pipelines and prompt engineering.
-- 🎯 **Goals:** Mastering scalable backend architectures and building smart automation tools.
+- 🔭 **Current Project:** Making a game with Unreal Engine 4
+- 🌱 **Learning:** Unreal engine 4
+- 🎯 **Goals:** Mastering UE4
 
 ---
 
@@ -11,6 +11,7 @@
 - Python
 - JavaScript
 - C#
+- UE Blueprint
 
 **Frameworks, Libraries & Tools:**
 - Aiogram (Telegram bots)
