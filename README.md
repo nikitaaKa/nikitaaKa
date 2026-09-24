@@ -1,20 +1,8 @@
-### 💻 Tech Stack & Tools
+### Языки
+- **Python:** 4 года занимался только на нём, пока не попробовал на C++
+- **С++:** лучше python во всём недавно начал учить
 
-**Languages:**
-- Python
-- С++
-
-**Frameworks, Libraries & Tools:**
-- Aiogram (Telegram bots)
-- Flask
-- React
-- PyQt
-- Git
-- Stable Diffusion API
-
----
-
-### 🤝 Connect with me
+### Связаться со мной
 - **Telegram:** @nikita1kalashnikov (t.me/nikita1kalashnikov)
 - **Discord:** neekeetka0
 
