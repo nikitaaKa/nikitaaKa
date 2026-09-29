@@ -7,3 +7,9 @@
 - **Discord:** neekeetka0
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nikitaaKa&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikitaaKa/nikitaaKa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikitaaKa/nikitaaKa/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Сonntribution Snake Animation" src="https://raw.githubusercontent.com/nikitaaKa/nikitaaKa/output/github-contribution-grid-snake.svg">
+</picture>
