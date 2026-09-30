@@ -13,3 +13,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikitaaKa/nikitaaKa/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Сonntribution Snake Animation" src="https://raw.githubusercontent.com/nikitaaKa/nikitaaKa/output/github-contribution-grid-snake.svg">
 </picture>
+
+↑↑↑ да я украл это у @flowseal
