@@ -6,7 +6,7 @@
 - **Telegram:** @nikita1kalashnikov (t.me/nikita1kalashnikov)
 - **Discord:** neekeetka0
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nikitaaKa&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+<!-- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nikitaaKa&theme=radical)](https://github.com/stats-organization/github-stats-extended) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikitaaKa/nikitaaKa/output/github-contribution-grid-snake-dark.svg">
