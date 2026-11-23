@@ -3,7 +3,7 @@
 - **С++:** превосходит питон как минимум по скорости, пишу на нем олимпиады
 
 ### Связаться со мной
-- **Telegram:** @nikita1kalashnikov (t.me/nikita1kalashnikov)
+- **Telegram:** @qnktk (qnktk)
 - **Discord:** neekeetka0
 
 <!-- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nikitaaKa&theme=radical)](https://github.com/stats-organization/github-stats-extended) -->
